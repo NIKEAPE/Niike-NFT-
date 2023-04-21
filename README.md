@@ -1,4 +1,11 @@
-# Node.js template
+# Node.js template<template>
+  <div>
+    <NuxtLayout>
+      <NuxtPage/>
+    </NuxtLayout>
+  </div>
+</template>
+
 
 This is a Node.js project.
 
